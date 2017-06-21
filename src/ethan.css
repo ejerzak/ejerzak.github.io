@@ -1,0 +1,139 @@
+@import url("reset.css");
+/*This is a comment to test the .sh thing!*/
+html {
+    font-family: Gill Sans, Calibri, sans-serif;
+}
+
+body {
+    max-width: 1000px;
+    min-width: 240px;
+    font-size: 12pt;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5em;
+    margin-right: 20px;
+}
+
+p, ul, ol, blockquote, dt, dd, tr, pre.src {
+    line-height: 1.4em;
+    margin-bottom: 1em;
+    color: #404040;
+}
+
+#header {
+    display: none;
+}
+
+img {
+  /* Responsive images (ensure images don't scale beyond their parents) */
+
+  max-width: 100%;
+  /* Part 1: Set a maxium relative to the parent */
+
+  width: auto\9;
+  /* IE7-8 need help adjusting responsive images */
+
+  height: auto;
+  /* Part 2: Scale the height according to the width, otherwise you get stretching */
+
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+
+h1 { 
+    font-family: 'Barrio', serif, cursive;
+    line-height: 1em;
+    margin-top: 0.7em; /* don't introduce too much space around page title */
+    margin-bottom: 0.7em;
+    font-size: 2.5em;
+    color: black;
+}
+
+h2 {
+    margin-top: 1.0em; /* don't introduce too much space around page title */
+    margin-bottom: 0.3em;
+    font-size: 1.6em;
+    /*font-variant: small-caps;*/
+}
+
+h3, h4, h5 {
+    margin-top: 1.4em;
+    margin-bottom: 0.3em;
+}
+
+h3 {
+    font-size: 1.3em;
+}
+h4 {
+    font-size: 1.1em;
+}
+h5 {
+    font-size: 1.0em;
+    font-variant-caps: all-petite-caps;
+    letter-spacing: 0.05em;
+}
+
+a {
+    color: #800000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    /* border-bottom: 1px dotted #800000;*/
+}
+
+/* page footer */
+#postamble {
+    display: none;
+    padding-top: 20px;
+    font-size: 0.75em;
+
+}
+
+
+
+.navbar {
+    width: 220px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin-left:20px;
+    font-family: Gill Sans, 'Open Sans';
+    font-size: 14pt;
+}
+ 
+
+#main {
+    margin-left: 240px;
+    /* Change this to whatever the width of your left column is*/
+    padding-top: 70px;
+}
+    
+#main ul {
+    list-style-type: disc;
+}
+
+#main li {
+    margin-left: 1em;
+}
+
+#main img {
+    float: right;
+    margin: 10px 20px 10px 10px;
+}
+
+
+#text { 
+  min-width: 200px; /* Minimum width of your wrapper element */
+  overflow: hidden;
+  display: inline-block;
+}
+
+.clear {
+    clear: both;
+}
