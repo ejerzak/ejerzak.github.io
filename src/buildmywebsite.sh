@@ -5,3 +5,5 @@ pandoc -f markdown -t html --template template.html -s -o ../public_html/miscell
 pandoc -f markdown -t html --template template.html -s -o ../public_html/papers.html -c ethan.css navbar.md papers.md
 pandoc -f markdown -t html --template template.html -s -o ../public_html/teaching.html -c ethan.css navbar.md teaching.md
 pandoc -f markdown -t html --template template.html -s -o ../public_html/cv.html -c ethan.css navbar.md cv.md
+cp *.css ../public_html/
+
