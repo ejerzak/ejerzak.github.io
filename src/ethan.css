@@ -1,7 +1,7 @@
 @import url("reset.css");
-/*This is a comment to test the .sh thing!*/
+
 html {
-    font-family: Gill Sans, Calibri, sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 body {
@@ -11,6 +11,14 @@ body {
     font-family: 'Open Sans', sans-serif;
     line-height: 1.5em;
     margin-right: 20px;
+}
+
+li {
+    margin-top: .5em;
+}
+
+.navbar li {
+    margin-top: 0em;
 }
 
 p, ul, ol, blockquote, dt, dd, tr, pre.src {
@@ -93,47 +101,183 @@ a:hover {
 
 
 
-.navbar {
-    width: 220px;
-    float: left;
-    margin-top: 20px;
-    margin-left: 20px;
-}
 
-.navbar ul {
-    list-style-type: none;
-    margin-left:20px;
-    font-family: Gill Sans, 'Open Sans';
-    font-size: 14pt;
-}
- 
 
-#main {
-    margin-left: 240px;
-    /* Change this to whatever the width of your left column is*/
-    padding-top: 70px;
-}
+
+/*For computer*/
+
+@media only screen and (min-width: 980px) {
+
+    .navbar {
+	width: 220px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	position: fixed;
+    }
+
+    .navbar ul {
+	list-style-type: none;
+	margin-left:20px;
+	font-family: Gill Sans, 'Open Sans';
+	font-size: 14pt;
+    }
     
-#main ul {
-    list-style-type: disc;
+
+    #main {
+	margin-left: 240px;
+	/* Change this to whatever the width of your left column is*/
+	padding-top: 70px;
+    }
+    
+    #main ul {
+	list-style-type: disc;
+    }
+
+    #main li {
+	margin-left: 1em;
+    }
+
+    #main img {
+	float: right;
+	margin: 10px 20px 10px 10px;
+    }
+
+
+    #text { 
+	min-width: 200px; /* Minimum width of your wrapper element */
+	overflow: hidden;
+	display: inline-block;
+    }
+
+    .clear {
+	clear: both;
+    }
+
 }
 
-#main li {
-    margin-left: 1em;
+
+
+/*For tablet*/
+
+
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+
+    .navbar {
+	width: 220px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	position: fixed;
+    }
+
+    .navbar ul {
+	list-style-type: none;
+	margin-left: 20px;
+	font-family: Gill Sans, 'Open Sans';
+	font-size: 14pt;
+    }
+    
+
+    #main {
+	margin-left: 240px;
+	/* Change this to whatever the width of your left column is*/
+	padding-top: 70px;
+	text-align: center;
+    }
+    
+    #main ul {
+	list-style-type: disc;
+    }
+
+    #main li {
+	margin-left: 1em;
+    }
+
+    #main img {
+	margin: auto;
+    }
+
+
+    #text { 
+	overflow: hidden;
+	display: inline-block;
+	margin: auto;
+	text-align: left;
+    }
+
+    .clear {
+	clear: both;
+    }
+
 }
 
-#main img {
-    float: right;
-    margin: 10px 20px 10px 10px;
-}
 
 
-#text { 
-  min-width: 200px; /* Minimum width of your wrapper element */
-  overflow: hidden;
-  display: inline-block;
-}
+/*For phones*/
 
-.clear {
-    clear: both;
+
+@media only screen and (max-width: 767px) {
+
+    .navbar {
+	text-align: center;
+	width: 99%;
+	padding-bottom: 15px;
+	margin: 0 auto;
+	position: relative;
+    }
+
+    .navbar li {
+	float: center;
+	margin: 0 0 0 0;
+	display: inline-block;
+	padding: 0 6px 0 6px;
+    }
+
+    
+    .navbar ul {
+	list-style-type: none;
+	margin: auto;
+	font-family: Gill Sans, 'Open Sans';
+	font-size: 14pt;
+	display: inline-block;
+    }
+    
+
+    #main {
+	/* Change this to whatever the width of your left column is*/
+	padding-top: 5px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	max-width: 580px;
+	width: 90%;
+    }
+    
+    #main ul {
+	list-style-type: disc;
+    }
+
+    #main li {
+	margin-left: 1em;
+    }
+
+    #main img {
+	margin: auto;
+    }
+
+
+    #text { 
+	overflow: hidden;
+	display: inline-block;
+	margin: auto;
+	text-align: left;
+	font-size: 12pt;
+    }
+
+    .clear {
+	clear: both;
+    }
+
 }

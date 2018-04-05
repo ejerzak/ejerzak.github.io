@@ -21,7 +21,7 @@ tags: [Ethan Jerzak, Berkeley, Philosophy]
 
 [This](index.html) is Ethan Jerzak's website.
 
-I'm a philosopher  at Berkeley.
+I'm a philosopher at Berkeley.
 
 
 University of California, Berkeley \

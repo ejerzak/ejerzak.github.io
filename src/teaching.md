@@ -1,5 +1,8 @@
 
+
 <div id="main">
+
+<div id="text">
 
 I have taught some courses.
 
@@ -17,7 +20,7 @@ Here are some courses I've taught:
 * PHIL 135, [Theory of Meaning](http://johnmacfarlane.net/135/) (John MacFarlane), Spring 2015
 * PHIL 12a, Elementary Logic (Seth Yalcin), Fall 2014
 * PHIL 186b, Later Wittgenstein (Barry Stroud), Spring 2014
-* PHIL 132, Philosophy of Mind (John Searle), Fall 2014 
+* PHIL 132, Philosophy of Mind (John Searle), Fall 2013 
 * PHIL 4, Knowledge and Its Limits (Wes Holliday), Spring 2013 
 * PHIL 12a, Elementary Logic (Sherri Roush), Fall 2012 
 
@@ -31,5 +34,7 @@ Here are some courses I've taught:
 * MATH 50500, Geometry for Elementary School Teachers, Summer 2008
 
 
+
+</div>
 
 </div>
