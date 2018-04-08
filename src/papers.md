@@ -13,7 +13,7 @@ Here are some papers I've written:
 * "Two Ways to Want" _under review_
 * "Paradoxical Desires" _under review_
 * "Counterlogicals" (joint work with [Arc
-  Kocurek](https://www.actual.world)) _in progress_
+  Kocurek](http://www.actual.world)) _in progress_
   
 
 </div>
