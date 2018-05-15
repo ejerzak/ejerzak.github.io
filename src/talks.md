@@ -10,7 +10,6 @@ Here are some talks I('ll) have given:
 
 ## upcoming
 
-* "Two Ways to Want", [Meaning Sciences Workshop](http://yalcin.work/meaning/), Berkeley, April 2018
 * "Paradoxical Desires", Berkeley/London Graduate Conference, London,
   May 2018
 * "Paradoxical Desires", Postgraduate Session, [92nd Joint Session of
@@ -22,6 +21,8 @@ Here are some talks I('ll) have given:
 
 ### 2018
 
+* "Two Ways to Want", [Meaning Sciences
+  Workshop](http://yalcin.work/meaning/), Berkeley, April 2018
 * "Paradoxical
   Desires", [Pacific APA](http://www.apaonline.org/event/2018pacific),
   San Diego, March 2018
