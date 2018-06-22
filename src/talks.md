@@ -10,17 +10,20 @@ Here are some talks I('ll) have given:
 
 ## upcoming
 
-* "Paradoxical Desires", Berkeley/London Graduate Conference, London,
-  May 2018
+* TBD, [New York Philosophy of Language Workshop](http://nylanguageworkshop.tumblr.com/), New
+  York, September 2018
 * "Paradoxical Desires", Postgraduate Session, [92nd Joint Session of
   the Aristotelian Society](https://www.aristoteliansociety.org.uk/the-joint-session/), Oxford, July 2018
 
+* "Paradoxical Desires", Colloquium, LOGOS, Barcelona, June 2018
 
 ## past
 
 
 ### 2018
 
+* "Paradoxical Desires", Berkeley/London Graduate Conference, London,
+  May 2018
 * "Two Ways to Want", [Meaning Sciences
   Workshop](http://yalcin.work/meaning/), Berkeley, April 2018
 * "Paradoxical

@@ -16,6 +16,7 @@ Here are some courses I've taught:
 
 ### at Berkeley
 
+* PHIL 100, Philosophical Methods (Daniel Warren) Fall 2018
 * PHIL 100, Philosophical Methods (Lara Buchak) Spring 2017 
 * PHIL 135, [Theory of Meaning](http://johnmacfarlane.net/135/) (John MacFarlane), Spring 2015
 * PHIL 12a, Elementary Logic (Seth Yalcin), Fall 2014

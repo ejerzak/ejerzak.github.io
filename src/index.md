@@ -29,7 +29,7 @@ University of California, Berkeley \
 Berkeley, CA 94720-2390
 
 
-jerzak@berkeley.edu
+jerzak [the obvious symbol] berkeley.edu
 
 
 [PhilPapers](https://philpapers.org/profile/511970) &nbsp;&nbsp; [Department](https://philosophy.berkeley.edu/people/detail/295) &nbsp;&nbsp; [academia.edu](https://berkeley.academia.edu/EthanJerzak)
