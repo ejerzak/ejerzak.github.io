@@ -10,18 +10,21 @@ Here are some talks I('ll) have given:
 
 ## upcoming
 
+* "Counterlogicals" (joint with [Arc
+  Kocurek](http://www.actual.world)), [Central APA](https://www.apaonline.org/events/EventDetails.aspx?id=968457&group=), Denver, February 2019
+* "Paradoxical Desires", Oxford University Graduate Conference,
+  November 2018
 * TBD, [New York Philosophy of Language Workshop](http://nylanguageworkshop.tumblr.com/), New
   York, September 2018
-* "Paradoxical Desires", Postgraduate Session, [92nd Joint Session of
-  the Aristotelian Society](https://www.aristoteliansociety.org.uk/the-joint-session/), Oxford, July 2018
-
-* "Paradoxical Desires", Colloquium, LOGOS, Barcelona, June 2018
 
 ## past
 
 
 ### 2018
 
+* "Paradoxical Desires", Postgraduate Session, [92nd Joint Session of
+  the Aristotelian Society](https://www.aristoteliansociety.org.uk/the-joint-session/), Oxford, July 2018
+* "Paradoxical Desires", Colloquium, LOGOS, Barcelona, June 2018
 * "Paradoxical Desires", Berkeley/London Graduate Conference, London,
   May 2018
 * "Two Ways to Want", [Meaning Sciences
