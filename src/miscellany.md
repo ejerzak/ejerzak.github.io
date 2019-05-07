@@ -1,7 +1,7 @@
 
 <div id="main">
 
-<div id="text">
+<div class="text">
 
 I like to sing in choirs, play piano, bake bread, and care for some
 cute urban chickens (pictures forthcoming). 

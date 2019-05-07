@@ -1,38 +1,50 @@
 
 <div id="main">
 
-<div id="text">
+<div class="text">
 
 
 I('ll) have given some talks.
 
 Here are some talks I('ll) have given:
 
-## upcoming
 
+### 2019
+* "Against Conventional Wisdom" (joint with [Arc Kocurek](http://actual.world) and [Rachel
+  Rudolph](https://sites.google.com/view/rachelettarudolph)),
+  [Stanford Philosophy of Language and Linguistics
+  Workshop](https://langling2019.weebly.com/), May 2019 
+* Comments on [Mike Deigan](https://www.mikedeigan.com/), "Rational
+  Partiality and Objective Value", [Pacific
+  APA](https://www.apaonline.org/page/2019P_program), Vancouver, April 2019 
 * "Counterlogicals" (joint with [Arc
-  Kocurek](http://www.actual.world)), [Central APA](https://www.apaonline.org/events/EventDetails.aspx?id=968457&group=), Denver, February 2019
-* "Paradoxical Desires", Oxford University Graduate Conference,
-  November 2018
-* TBD, [New York Philosophy of Language Workshop](http://nylanguageworkshop.tumblr.com/), New
-  York, September 2018
-
-## past
-
+  Kocurek](http://www.actual.world)), [Central
+  APA](https://www.apaonline.org/events/EventDetails.aspx?id=968457&group=),
+  Denver, February 2019
+* "Paradoxical Desires", Brandeis University, February 2019
+* "Paradoxical Desires", Indiana University Bloomington, February 2019
+* "Paradoxical Desires", National University of Singapore, January 2019
 
 ### 2018
 
+
+* "Two Ways to Want?", Hebrew University of Jerusalem, December 2018
+* "Paradoxical Desires", [Oxford University Graduate
+  Conference](http://users.ox.ac.uk/~gradconf/index.shtml), November
+  2018
+* "Two Ways to Want?", [New York Philosophy of Language Workshop](http://nylanguageworkshop.tumblr.com/), New
+  York, September 2018
 * "Paradoxical Desires", Postgraduate Session, [92nd Joint Session of
   the Aristotelian Society](https://www.aristoteliansociety.org.uk/the-joint-session/), Oxford, July 2018
 * "Paradoxical Desires", Colloquium, LOGOS, Barcelona, June 2018
 * "Paradoxical Desires", Berkeley/London Graduate Conference, London,
   May 2018
-* "Two Ways to Want", [Meaning Sciences
+* "Two Ways to Want?", [Meaning Sciences
   Workshop](http://yalcin.work/meaning/), Berkeley, April 2018
 * "Paradoxical
   Desires", [Pacific APA](http://www.apaonline.org/event/2018pacific),
   San Diego, March 2018
-* "Two Ways to Want", [Eastern
+* "Two Ways to Want?", [Eastern
   APA](http://www.apaonline.org/event/2018eastern),
   Savannah, January 2018
   
@@ -47,11 +59,11 @@ Here are some talks I('ll) have given:
 
 ### 2016
 
-* "Two Ways to Want", [Situations, Information, and Semantic Content](http://www.situatedcontent2016.philosophie.uni-muenchen.de/index.html), LMU, Munich, December 2016
+* "Two Ways to Want?", [Situations, Information, and Semantic Content](http://www.situatedcontent2016.philosophie.uni-muenchen.de/index.html), LMU, Munich, December 2016
 * Comments on Isidora Stajanovic, "Expressing Disagreement", [Faces of Disagreement Conference](https://grin.normativity.ca/disagreement-conference/), Montreal, May 2016
-* "Two Ways to Want", Berkeley/London Graduate Conference, University College London, May 2016 
-* "Two Ways to Want", Colloquium, University of Konstanz, Konstanz, April 2016 
-* "Two Ways to Want", Colloquium, Institut Jean-Nicod, Paris, April 2016
+* "Two Ways to Want?", Berkeley/London Graduate Conference, University College London, May 2016 
+* "Two Ways to Want?", Colloquium, University of Konstanz, Konstanz, April 2016 
+* "Two Ways to Want?", Colloquium, Institut Jean-Nicod, Paris, April 2016
 * Comments on Cameron Domenico Kirk-Giannini, "Assertion Reconsidered", [Pacific APA](http://www.apaonline.org/event/2017pacific), San Francisco, March 2016
 
 

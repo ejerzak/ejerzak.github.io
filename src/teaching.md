@@ -2,13 +2,13 @@
 
 <div id="main">
 
-<div id="text">
+<div class="text">
 
 I have taught some courses.
 
 Here are some courses I've taught:
 
-## primary instructor
+## primary instructor at Berkeley
 
 * PHIL 12a, Elementary Logic, Summer 2016 
 
@@ -16,7 +16,9 @@ Here are some courses I've taught:
 
 ### at Berkeley
 
+* PHIL 125, Metaphysics (Shamik Dasgupta) Spring 2018
 * PHIL 100, Philosophical Methods (Daniel Warren) Fall 2018
+* PHIL 2, Individual Morality and Social Justice (Nick French) Summer 2018
 * PHIL 100, Philosophical Methods (Lara Buchak) Spring 2017 
 * PHIL 135, [Theory of Meaning](http://johnmacfarlane.net/135/) (John MacFarlane), Spring 2015
 * PHIL 12a, Elementary Logic (Seth Yalcin), Fall 2014

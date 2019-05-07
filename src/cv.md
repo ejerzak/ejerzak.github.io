@@ -1,7 +1,7 @@
 
 <div id="main">
 
-<div id="text">
+<div class="text">
 
 
 I have a CV. 

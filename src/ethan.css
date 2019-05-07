@@ -142,21 +142,25 @@ a:hover {
 	margin-left: 1em;
     }
 
-    #picture {
+    .picture {
 	float: right;
 	clear: right;
-	margin: 10px 20px 10px 10px;
+	margin: 5px 10px 5px 5px;
 	position: relative;
 	width: auto;
     }
 
 
-    #text { 
+    .text { 
 	min-width: 200px; /* Minimum width of your wrapper element */
 	overflow: hidden;
 	display: inline-block;
 	clear: left;
 	float: left;
+    }
+
+    .textpicture {
+	max-width: 400px;
     }
 
     .clear {
@@ -208,11 +212,15 @@ a:hover {
     }
 
 
-    #text { 
+    .text { 
 	overflow: hidden;
 	display: inline-block;
 	margin: auto;
 	text-align: left;
+    }
+
+    .textpicture {
+	max-width: 400px;
     }
 
     .clear {
@@ -277,7 +285,7 @@ a:hover {
     }
 
 
-    #text { 
+    .text { 
 	overflow: hidden;
 	display: inline-block;
 	margin: auto;
