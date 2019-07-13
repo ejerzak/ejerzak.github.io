@@ -8,7 +8,16 @@ I have taught some courses.
 
 Here are some courses I've taught:
 
-## primary instructor at Berkeley
+
+## primary instructor 
+
+### at the National University of Singapore 
+
+* PH2242, Philosophy of Language, Spring 2019
+* PH3245, Language and Thought, Fall 2019
+* PH4242/PH6540, Topics in Analytic Philosophy, Fall 2019
+
+### at Berkeley
 
 * PHIL 12a, Elementary Logic, Summer 2016 
 

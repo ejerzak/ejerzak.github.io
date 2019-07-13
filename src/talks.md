@@ -9,6 +9,13 @@ I('ll) have given some talks.
 Here are some talks I('ll) have given:
 
 
+### 2020 
+* "Against Conventional Wisdom" (joint with [Arc
+  Kocurek](http://actual.world) and [Rachel
+  Rudolph](https://sites.google.com/view/rachelettarudolph)), Eastern
+  APA, Philadelphia, January 2020
+
+
 ### 2019
 * "Against Conventional Wisdom" (joint with [Arc Kocurek](http://actual.world) and [Rachel
   Rudolph](https://sites.google.com/view/rachelettarudolph)),
@@ -28,7 +35,7 @@ Here are some talks I('ll) have given:
 ### 2018
 
 
-* "Two Ways to Want?", Hebrew University of Jerusalem, December 2018
+<!-- * "Two Ways to Want?", Hebrew University of Jerusalem, December 2018 -->
 * "Paradoxical Desires", [Oxford University Graduate
   Conference](http://users.ox.ac.uk/~gradconf/index.shtml), November
   2018
