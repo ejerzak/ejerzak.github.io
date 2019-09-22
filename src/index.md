@@ -21,16 +21,14 @@ tags: [Ethan Jerzak, National University of Singapore, Berkeley, Philosophy]
 
 [This](index.html) is Ethan Jerzak's website.
 
-I'm a philosopher at Berkeley, although soon I'll take up a post at
-the National University of Singapore.
+I'm a philosopher at the National University of Singapore.
 
-University of California, Berkeley \
-314 Moses Hall #2390 \
-Berkeley, CA 94720-2390
+Department of Philosophy \
+National University of Singapore \
+3 Arts Link, #05-22 \
+Singapore 117570
 
-
-jerzak@berkeley.edu
-
+phiejj@nus.edu.sg
 
 [PhilPapers](https://philpapers.org/profile/511970) &nbsp;&nbsp;
 [Department](https://philosophy.berkeley.edu/people/detail/295)

@@ -13,9 +13,9 @@ Here are some courses I've taught:
 
 ### at the National University of Singapore 
 
-* PH2242, Philosophy of Language, Spring 2019
-* PH3245, Language and Thought, Fall 2019
-* PH4242/PH6540, Topics in Analytic Philosophy, Fall 2019
+* PH2242, Philosophy of Language / Spring 2019
+* PH3245, Language and Thought / Fall 2019
+* PH4242/PH6540, Seminar: Attitudes, Conditionals, Conditional Attitudes / Fall 2019
 
 ### at Berkeley
 

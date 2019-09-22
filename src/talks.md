@@ -3,11 +3,9 @@
 
 <div class="text">
 
-
 I('ll) have given some talks.
 
 Here are some talks I('ll) have given:
-
 
 ### 2020 
 * "Against Conventional Wisdom" (joint with [Arc
@@ -17,6 +15,7 @@ Here are some talks I('ll) have given:
 
 
 ### 2019
+* TBD, Nanyang Technological University, Singapore, November 2019
 * "Against Conventional Wisdom" (joint with [Arc Kocurek](http://actual.world) and [Rachel
   Rudolph](https://sites.google.com/view/rachelettarudolph)),
   [Stanford Philosophy of Language and Linguistics
