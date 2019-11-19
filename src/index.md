@@ -31,7 +31,7 @@ Singapore 117570
 phiejj@nus.edu.sg
 
 [PhilPapers](https://philpapers.org/profile/511970) &nbsp;&nbsp;
-[Department](https://philosophy.berkeley.edu/people/detail/295)
+[Department](http://profile.nus.edu.sg/fass/phiejj/)
 &nbsp;&nbsp;
 [GitHub](https://github.com/ejerzak)
 

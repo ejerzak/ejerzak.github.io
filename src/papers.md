@@ -8,8 +8,9 @@ I have written some papers.
 Here are some papers I've written:
 
 * "Paradoxical Desires" _Proceedings of the Aristotelian Society_,
-  forthcoming  
+  2019  
   [[penultimate]](https://philpapers.org/archive/JERPD-2.pdf)
+  [[published]](https://academic.oup.com/aristotelian/article/119/3/335/5448884?guestAccessKey=4f0c866a-78be-4f2b-a428-3f40453e2000)
  
 * "Two Ways to Want?" _Journal of Philosophy_, 2019  
   [[penultimate]](https://philpapers.org/archive/JERTWT.pdf)
