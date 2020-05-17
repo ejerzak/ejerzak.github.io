@@ -13,8 +13,8 @@ Here are some courses I've taught:
 
 ### at the National University of Singapore 
 
-* PH4261, Immanuel Kant / Spring 2020
-* PH4242/PH6242, Seminar: Topic TBD / Spring 2020
+* PH4261, Immanuel Kant / Spring 2021
+* PH4242/PH6242, Seminar: Topic TBD / Spring 2021
 * PH3246, Paradoxes / Fall 2020
 * PH2242, Philosophy of Language / Spring 2020
 * PH3245, Language and Thought / Fall 2019
