@@ -7,6 +7,9 @@ I have written some papers.
 
 Here are some papers I've written:
 
+* "Against Conventional Wisdom" (joint with [Arc Kocurek](http://actual.world) and [Rachel Rudolph](https://sites.google.com/view/rachelettarudolph)) _forthcoming in Philosophers' Imprint_  
+	[[penultimate]](https://philpapers.org/archive/KOCACW.pdf)
+
 * "Paradoxical Desires" _Proceedings of the Aristotelian Society_,
   2019  
   [[penultimate]](https://philpapers.org/archive/JERPD-2.pdf)
@@ -22,9 +25,6 @@ Here are some papers I've written:
  
 <!-- * "Logical Pluralism and the Expansion of Knowledge" (formerly "From -->
 <!--   Logical Pluralism to Logical Contextualism") _under review_ -->
-
-* "Against Conventional Wisdom" (joint with [Arc Kocurek](http://actual.world) and [Rachel
-  Rudolph](https://sites.google.com/view/rachelettarudolph)) _under review_
 
 * "Counterlogicals" (joint work with [Arc
   Kocurek](http://www.actual.world)) _under review_
