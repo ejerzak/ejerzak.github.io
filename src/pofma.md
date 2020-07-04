@@ -31,8 +31,8 @@ states:
 > statutory board, or a part of the Government, an Organ of State or a
 > statutory board.
 
-I myself have displayed this sign in Singapore. I am a person, and
-putting up the sign is an act. Thus the government must determine if
+I myself have displayed this sign in Singapore. I am a person, and putting up
+the sign is an act of communication. Thus the government must determine if
 7(1)(a) and 7(1)(b) apply. They provide the following definitions:
 
 > \(2\) In this Act --- (a) a statement of fact is a statement which a
