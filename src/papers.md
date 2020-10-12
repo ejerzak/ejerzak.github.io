@@ -7,8 +7,11 @@ I have written some papers.
 
 Here are some papers I've written:
 
-* "Against Conventional Wisdom" (joint with [Arc Kocurek](http://actual.world) and [Rachel Rudolph](https://sites.google.com/view/rachelettarudolph)) _forthcoming in Philosophers' Imprint_  
+* Review of Yli-Vakkuri and Hawthorne's _Narrow Content_, _Philosophical Review_, 2020
+
+* "Against Conventional Wisdom" (joint with [Arc Kocurek](http://actual.world) and [Rachel Rudolph](https://sites.google.com/view/rachelettarudolph)) _Philosophers' Imprint_, 2020  
 	[[penultimate]](https://philpapers.org/archive/KOCACW.pdf)
+	[[published]](http://hdl.handle.net/2027/spo.3521354.0020.022)
 
 * "Paradoxical Desires" _Proceedings of the Aristotelian Society_,
   2019  
