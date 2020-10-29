@@ -7,7 +7,8 @@ I have written some papers.
 
 Here are some papers I've written:
 
-* Review of Yli-Vakkuri and Hawthorne's _Narrow Content_, _Philosophical Review_, 2020
+* Review of Yli-Vakkuri and Hawthorne's _Narrow Content_, _Philosophical Review_, 2021  
+	[[penultimate]](https://philpapers.org/archive/JERROY.pdf)
 
 * "Against Conventional Wisdom" (joint with [Arc Kocurek](http://actual.world) and [Rachel Rudolph](https://sites.google.com/view/rachelettarudolph)) _Philosophers' Imprint_, 2020  
 	[[penultimate]](https://philpapers.org/archive/KOCACW.pdf)
