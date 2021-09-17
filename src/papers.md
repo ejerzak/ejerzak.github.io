@@ -7,6 +7,11 @@ I have written some papers.
 
 Here are some papers I've written:
 
+* "Counterlogicals" (joint work with [Arc
+  Kocurek](http://www.actual.world)), _Journal of Philosophical Logic_, 2021  
+	[[penultimate]](https://philpapers.org/archive/KOCCAC-2.pdf)
+	[[published]](https://doi.org/10.1007/s10992-020-09581-6)
+  
 * Review of Yli-Vakkuri and Hawthorne's _Narrow Content_, _Philosophical Review_, 2021  
 	[[penultimate]](https://philpapers.org/archive/JERROY.pdf)
 
@@ -30,9 +35,6 @@ Here are some papers I've written:
 <!-- * "Logical Pluralism and the Expansion of Knowledge" (formerly "From -->
 <!--   Logical Pluralism to Logical Contextualism") _under review_ -->
 
-* "Counterlogicals" (joint work with [Arc
-  Kocurek](http://www.actual.world)) _under review_
-  
 
 </div>
 
