@@ -13,6 +13,8 @@ Here are some courses I've taught:
 
 ### at the National University of Singapore 
 
+* PH4262, Friedrich Nietzsche, Spring 2023
+* PH6540, Topics in Analytic Philosophy: Rational Preference, Spring 2023
 * PH4261, Immanuel Kant / Spring 2021, Spring 2022
 * PH3246, Paradoxes / Fall 2020, Fall 2021
 * PH2242, Philosophy of Language / Spring 2020, Fall 2021
