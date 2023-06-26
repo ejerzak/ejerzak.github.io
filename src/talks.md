@@ -7,6 +7,16 @@ I('ll) have given some talks.
 
 Here are some talks I('ll) have given:
 
+
+### 2023
+
+* TBD, Expressivism Workshop, Lingnan University, Hong Kong, November 2023
+* "Knowing What to Do" (joint work with Arc Koceruk), Philosophy of Language Association, Berlin, July 2023
+* "Aggregating Value" (joint work with Isaac Wilhelm), Buenos Aires Logic Group, June 2023
+* "De Re Desire", Dubrovnik Conference on Metaphysics, Croatia, June 2023
+* "De Re Desire", Colloquium, Scripps College, Los Angeles, February 2023
+
+
 ### 2020 
 * "Against Conventional Wisdom" (joint with [Arc
   Kocurek](http://actual.world) and [Rachel
