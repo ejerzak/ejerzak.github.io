@@ -7,6 +7,9 @@ I('ll) have given some talks.
 
 Here are some talks I('ll) have given:
 
+### 2024
+
+* "De Re Desire", New York Philosophy of Language Workshop, September 2024
 
 ### 2023
 

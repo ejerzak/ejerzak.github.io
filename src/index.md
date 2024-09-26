@@ -12,7 +12,7 @@ tags: [Ethan Jerzak, National University of Singapore, Berkeley, Philosophy]
  
 <div class="picture">
  
-<img src="ethan.jpg" alt="Ethan" width="250px">
+<img src="ethan.jpg" alt="Ethan" width="375px">
 
 
 </div>
