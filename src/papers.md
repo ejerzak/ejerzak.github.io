@@ -7,6 +7,9 @@ I have written some papers.
 
 Here are some papers I've written:
 
+<!-- * "Age-Weighted Voting" _under review_ -->
+<!-- 	[[draft]](https://philpapers.org/archive/JERKWT.pdf) -->
+
 * "Knowing What to Do" (joint work with [Arc
   Kocurek](http://www.actual.world)), _Noûs_, 2024  
 	[[penultimate]](https://philpapers.org/archive/JERKWT.pdf)

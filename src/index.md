@@ -31,7 +31,7 @@ Singapore 117570
 phiejj@nus.edu.sg
 
 [PhilPapers](https://philpapers.org/profile/511970) &nbsp;&nbsp;
-[Department](http://profile.nus.edu.sg/fass/phiejj/)
+[Department](https://discovery.nus.edu.sg/15883)
 &nbsp;&nbsp;
 [GitHub](https://github.com/ejerzak)
 
