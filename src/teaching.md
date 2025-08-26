@@ -13,8 +13,9 @@ Here are some courses I've taught:
 
 ### at the National University of Singapore 
 
-* GET1029/GEX1015, Life, the Universe, and Everything, Spring 2024
-* PH6770, Graduate Research Seminar, Fall 2023
+* PH2224 Philosophy and Film, Spring 2026
+* GET1029/GEX1015, Life, the Universe, and Everything, Spring 2024, Spring 2025
+* PH6770, Graduate Research Seminar, Fall 2023, Spring 2025, Fall 2025
 * PH4206/PH6760, Søren Kierkegaard, Fall 2023
 * PH4262, Friedrich Nietzsche, Spring 2023
 * PH6540, Topics in Analytic Philosophy: Rational Preference, Spring 2023
