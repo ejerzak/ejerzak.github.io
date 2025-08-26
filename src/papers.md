@@ -7,6 +7,14 @@ I have written some papers.
 
 Here are some papers I've written:
 
+<!-- * "Age-Weighted Voting" _under review_ -->
+<!-- 	[[draft]](https://philpapers.org/archive/JERKWT.pdf) -->
+
+* "Knowing What to Do" (joint work with [Arc
+  Kocurek](http://www.actual.world)), _Noûs_, 2024  
+	[[penultimate]](https://philpapers.org/archive/JERKWT.pdf)
+	[[published]](https://doi.org/10.1111/nous.12503)
+
 * "Counterlogicals" (joint work with [Arc
   Kocurek](http://www.actual.world)), _Journal of Philosophical Logic_, 2021  
 	[[penultimate]](https://philpapers.org/archive/KOCCAC-2.pdf)
@@ -14,6 +22,7 @@ Here are some papers I've written:
   
 * Review of Yli-Vakkuri and Hawthorne's _Narrow Content_, _Philosophical Review_, 2021  
 	[[penultimate]](https://philpapers.org/archive/JERROY.pdf)
+	[[published]](https://doi.org/10.1215/00318108-8998929)
 
 * "Against Conventional Wisdom" (joint with [Arc Kocurek](http://actual.world) and [Rachel Rudolph](https://sites.google.com/view/rachelettarudolph)) _Philosophers' Imprint_, 2020  
 	[[penultimate]](https://philpapers.org/archive/KOCACW.pdf)

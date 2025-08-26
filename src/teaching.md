@@ -13,18 +13,24 @@ Here are some courses I've taught:
 
 ### at the National University of Singapore 
 
+<<<<<<< HEAD
 * PH2224 Philosophy and Film, Spring 2026
 * GET1029/GEX1015, Life, the Universe, and Everything, Spring 2024, Spring 2025
 * PH6770, Graduate Research Seminar, Fall 2023, Spring 2025, Fall 2025
+=======
+* PH6770, Graduate Research Seminar, Spring 2024
+* GET1029/GEX1015, Life, the Universe, and Everything, Spring 2024
+* PH6770, Graduate Research Seminar, Fall 2023
+>>>>>>> origin/master
 * PH4206/PH6760, Søren Kierkegaard, Fall 2023
 * PH4262, Friedrich Nietzsche, Spring 2023
 * PH6540, Topics in Analytic Philosophy: Rational Preference, Spring 2023
-* PH4261, Immanuel Kant / Spring 2021, Spring 2022
-* PH3246, Paradoxes / Fall 2020, Fall 2021
-* PH2242, Philosophy of Language / Spring 2020, Fall 2021
-* PH4242/PH6242, Seminar: The Grounds of Meaning / Spring 2021
-* PH3245, Language and Thought / Fall 2019
-* PH4242/PH6540, Seminar: Attitudes, Conditionals, Conditional Attitudes / Fall 2019
+* PH4261, Immanuel Kant, Spring 2021, Spring 2022
+* PH3246, Paradoxes, Fall 2020, Fall 2021
+* PH2242, Philosophy of Language, Spring 2020, Fall 2021
+* PH4242/PH6242, Seminar: The Grounds of Meaning, Spring 2021
+* PH3245, Language and Thought, Fall 2019
+* PH4242/PH6540, Seminar: Attitudes, Conditionals, Conditional Attitudes, Fall 2019
 
 ### at Berkeley
 

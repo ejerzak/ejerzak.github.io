@@ -12,7 +12,7 @@ tags: [Ethan Jerzak, National University of Singapore, Berkeley, Philosophy]
  
 <div class="picture">
  
-<img src="ethan.jpg" alt="Ethan" width="250px">
+<img src="ethan.jpg" alt="Ethan" width="375px">
 
 
 </div>
@@ -31,7 +31,7 @@ Singapore 117570
 phiejj@nus.edu.sg
 
 [PhilPapers](https://philpapers.org/profile/511970) &nbsp;&nbsp;
-[Department](http://profile.nus.edu.sg/fass/phiejj/)
+[Department](https://discovery.nus.edu.sg/15883)
 &nbsp;&nbsp;
 [GitHub](https://github.com/ejerzak)
 

@@ -7,6 +7,10 @@ I('ll) have given some talks.
 
 Here are some talks I('ll) have given:
 
+### 2024
+
+* "Knowing What to Do" (joint work with [Arc Kocurek](http://actual.world)), Berkeley Meaning Sciences Club, Berkeley, October 2024
+* "De Re Desire", New York Philosophy of Language Workshop, September 2024
 
 ### 2023
 

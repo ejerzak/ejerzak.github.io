@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    max-width: 1000px;
+    max-width: 1200px;
     min-width: 240px;
     font-size: 12pt;
     font-family: 'Open Sans', sans-serif;
@@ -129,14 +129,29 @@ a:hover {
     
 
     #main {
-	margin-left: 240px;
-	/* Change this to whatever the width of your left column is*/
-	float: left;
-	width: calc(100% - 240px);
-	/* Added to try to fix CV page*/
-	padding-top: 70px;
-	overflow: hidden;
+        margin-left: 240px;
+        width: calc(100% - 240px);
+        padding-top: 70px;
+        display: flex;
+        flex-direction: row-reverse; /* This will put the image on the right */
+        align-items: flex-start;
+        gap: 20px; /* This creates space between the image and text */
     }
+
+
+
+    
+    /* #main { */
+    /* 	margin-left: 240px; */
+    /* 	/\* Change this to whatever the width of your left column is*\/ */
+    /* 	float: left; */
+    /* 	width: calc(100% - 240px); */
+    /* 	/\* Added to try to fix CV page*\/ */
+    /* 	padding-top: 70px; */
+    /* 	overflow: hidden; */
+    /* 	display: flex; */
+    /*     flex-wrap: wrap; */
+    /* } */
     
     #main ul {
 	list-style-type: disc;
@@ -146,26 +161,80 @@ a:hover {
 	margin-left: 1em;
     }
 
-    .picture {
-	float: right;
-	clear: right;
-	margin: 5px 10px 5px 5px;
-	position: relative;
-	width: auto;
+
+    #main {
+        margin-left: 240px;
+        width: calc(100% - 240px);
+        padding-top: 70px;
+        display: flex;
+        flex-direction: row-reverse; /* This will put the image on the right */
+        align-items: flex-start;
+        gap: 20px; /* This creates space between the image and text */
     }
 
+    .picture {
+        flex: 0 0 auto;
+        max-width: 40%;
+    }
 
     .text { 
-	min-width: 200px; /* Minimum width of your wrapper element */
-	overflow: hidden;
-	display: inline-block;
-	clear: left;
-	float: left;
+        flex: 1 1 auto;
+        min-width: 200px;
     }
 
     .textpicture {
-	max-width: 400px;
+        max-width: none;
     }
+
+    #main {
+        margin-left: 240px;
+        width: calc(100% - 240px);
+        padding-top: 70px;
+        display: flex;
+        flex-direction: row-reverse; /* This will put the image on the right */
+        align-items: flex-start;
+        gap: 20px; /* This creates space between the image and text */
+    }
+
+    .picture {
+        flex: 0 0 auto;
+        max-width: 40%;
+    }
+
+    .text { 
+        flex: 1 1 auto;
+        min-width: 200px;
+    }
+
+    .textpicture {
+        max-width: none;
+    }
+
+
+    /* .picture { */
+    /*     float: right; */
+    /*     clear: right; */
+    /*     margin: 5px 0 5px 20px; /\* Reduced right margin, increased left margin *\/ */
+    /*     position: relative; */
+    /*     width: auto; */
+    /*     max-width: 40%; /\* Limit width to prevent overlapping on smaller screens *\/ */
+    /* } */
+
+    /* .text {  */
+    /*     min-width: 200px; */
+    /*     overflow: hidden; */
+    /*     display: inline-block; */
+    /*     clear: left; */
+    /*     float: left; */
+    /*     width: calc(60% - 20px); /\* Adjust width to complement the picture *\/ */
+    /*     padding-right: 20px; /\* Add some padding to prevent text from touching the image *\/ */
+    /* } */
+
+    /* .textpicture { */
+    /*     max-width: none; /\* Remove the max-width constraint *\/ */
+    /* } */
+
+
 
     .clear {
 	clear: both;
