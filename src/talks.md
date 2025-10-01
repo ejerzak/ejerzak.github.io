@@ -7,6 +7,9 @@ I('ll) have given some talks.
 
 Here are some talks I('ll) have given:
 
+### 
+* "Disjunctive Crimes", [BISFORM 2025](https://voidprove.github.io/BISFORM2025/), July 2025
+
 ### 2024
 
 * "Knowing What to Do" (joint work with [Arc Kocurek](http://actual.world)), Berkeley Meaning Sciences Club, Berkeley, October 2024
