@@ -33,7 +33,7 @@ phiejj@nus.edu.sg
 [PhilPapers](https://philpapers.org/profile/511970) &nbsp;&nbsp;
 [Department](https://discovery.nus.edu.sg/15883)
 &nbsp;&nbsp;
-[GitHub](https://github.com/ejerzak)
+<!-- [GitHub](https://github.com/ejerzak) -->
 
 </div>
 
