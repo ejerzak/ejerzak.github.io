@@ -20,6 +20,7 @@ tags: [Ethan Jerzak, Berkeley, Philosophy]
 * [about](index.html)
 * [papers](papers.html)
 * [talks](talks.html)
+* [rational for what?](https://ejerzak.github.io/)
 * [teaching](teaching.html)
 * [cv](cv.html)
 * [miscellany](miscellany.html)

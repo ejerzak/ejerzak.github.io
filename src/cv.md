@@ -1,3 +1,6 @@
+---
+pagetitle: CV — Ethan Jerzak
+---
 
 <div id="main">
 
@@ -6,7 +9,7 @@
 
 I have a CV. 
 
-You can look at it [here](Ethan Jerzak CV.pdf).
+You can look at it [here](ethan_jerzak_cv.pdf).
 
 
 </div>

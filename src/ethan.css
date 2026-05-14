@@ -1,9 +1,5 @@
 @import url("reset.css");
 
-blockquote {
-    margin: 0 50px;
-}
-
 html {
     font-family: 'Open Sans', sans-serif;
 }
@@ -11,61 +7,55 @@ html {
 body {
     max-width: 1200px;
     min-width: 240px;
+    margin-right: 20px;
     font-size: 12pt;
     font-family: 'Open Sans', sans-serif;
     line-height: 1.5em;
-    margin-right: 20px;
-}
-
-li {
-    margin-top: .5em;
-}
-
-.navbar li {
-    margin-top: 0em;
 }
 
 p, ul, ol, blockquote, dt, dd, tr, pre.src {
-    line-height: 1.4em;
     margin-bottom: 1em;
     color: #404040;
+    line-height: 1.4em;
 }
 
-#header {
+blockquote {
+    margin: 0 50px;
+}
+
+li {
+    margin-top: 0.5em;
+}
+
+.navbar li {
+    margin-top: 0;
+}
+
+#header,
+#postamble {
     display: none;
 }
 
 img {
-  /* Responsive images (ensure images don't scale beyond their parents) */
-
-  max-width: 100%;
-  /* Part 1: Set a maxium relative to the parent */
-
-  width: auto\9;
-  /* IE7-8 need help adjusting responsive images */
-
-  height: auto;
-  /* Part 2: Scale the height according to the width, otherwise you get stretching */
-
-  vertical-align: middle;
-  border: 0;
-  -ms-interpolation-mode: bicubic;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border: 0;
 }
 
-h1 { 
-    font-family: 'Barrio', serif, cursive;
-    line-height: 1em;
-    margin-top: 0.7em; /* don't introduce too much space around page title */
+h1 {
+    margin-top: 0.7em;
     margin-bottom: 0.7em;
-    font-size: 2.5em;
     color: black;
+    font-family: 'Barrio', serif, cursive;
+    font-size: 2.5em;
+    line-height: 1em;
 }
 
 h2 {
-    margin-top: 1.0em; /* don't introduce too much space around page title */
+    margin-top: 1em;
     margin-bottom: 0.3em;
     font-size: 1.6em;
-    /*font-variant: small-caps;*/
 }
 
 h3, h4, h5 {
@@ -76,11 +66,13 @@ h3, h4, h5 {
 h3 {
     font-size: 1.3em;
 }
+
 h4 {
     font-size: 1.1em;
 }
+
 h5 {
-    font-size: 1.0em;
+    font-size: 1em;
     font-variant-caps: all-petite-caps;
     letter-spacing: 0.05em;
 }
@@ -92,84 +84,44 @@ a {
 
 a:hover {
     color: black;
-    /* border-bottom: 1px dotted #800000;*/
 }
 
-/* page footer */
-#postamble {
-    display: none;
-    padding-top: 20px;
-    font-size: 0.75em;
-
+.clear {
+    clear: both;
 }
-
-
-
-
-
-
-/*For computer*/
 
 @media only screen and (min-width: 980px) {
-
     .navbar {
-	width: 220px;
-	float: left;
-	margin-top: 20px;
-	margin-left: 20px;
-	position: fixed;
+        position: fixed;
+        float: left;
+        width: 220px;
+        margin-top: 20px;
+        margin-left: 20px;
     }
 
     .navbar ul {
-	list-style-type: none;
-	margin-left:20px;
-	font-family: Gill Sans, 'Open Sans';
-	font-size: 14pt;
+        margin-left: 20px;
+        list-style-type: none;
+        font-family: Gill Sans, 'Open Sans';
+        font-size: 14pt;
     }
-    
 
     #main {
-        margin-left: 240px;
-        width: calc(100% - 240px);
-        padding-top: 70px;
         display: flex;
-        flex-direction: row-reverse; /* This will put the image on the right */
+        flex-direction: row-reverse;
         align-items: flex-start;
-        gap: 20px; /* This creates space between the image and text */
+        gap: 20px;
+        width: calc(100% - 240px);
+        margin-left: 240px;
+        padding-top: 70px;
     }
 
-
-
-    
-    /* #main { */
-    /* 	margin-left: 240px; */
-    /* 	/\* Change this to whatever the width of your left column is*\/ */
-    /* 	float: left; */
-    /* 	width: calc(100% - 240px); */
-    /* 	/\* Added to try to fix CV page*\/ */
-    /* 	padding-top: 70px; */
-    /* 	overflow: hidden; */
-    /* 	display: flex; */
-    /*     flex-wrap: wrap; */
-    /* } */
-    
     #main ul {
-	list-style-type: disc;
+        list-style-type: disc;
     }
 
     #main li {
-	margin-left: 1em;
-    }
-
-
-    #main {
-        margin-left: 240px;
-        width: calc(100% - 240px);
-        padding-top: 70px;
-        display: flex;
-        flex-direction: row-reverse; /* This will put the image on the right */
-        align-items: flex-start;
-        gap: 20px; /* This creates space between the image and text */
+        margin-left: 1em;
     }
 
     .picture {
@@ -177,7 +129,7 @@ a:hover {
         max-width: 40%;
     }
 
-    .text { 
+    .text {
         flex: 1 1 auto;
         min-width: 200px;
     }
@@ -185,189 +137,104 @@ a:hover {
     .textpicture {
         max-width: none;
     }
-
-    #main {
-        margin-left: 240px;
-        width: calc(100% - 240px);
-        padding-top: 70px;
-        display: flex;
-        flex-direction: row-reverse; /* This will put the image on the right */
-        align-items: flex-start;
-        gap: 20px; /* This creates space between the image and text */
-    }
-
-    .picture {
-        flex: 0 0 auto;
-        max-width: 40%;
-    }
-
-    .text { 
-        flex: 1 1 auto;
-        min-width: 200px;
-    }
-
-    .textpicture {
-        max-width: none;
-    }
-
-
-    /* .picture { */
-    /*     float: right; */
-    /*     clear: right; */
-    /*     margin: 5px 0 5px 20px; /\* Reduced right margin, increased left margin *\/ */
-    /*     position: relative; */
-    /*     width: auto; */
-    /*     max-width: 40%; /\* Limit width to prevent overlapping on smaller screens *\/ */
-    /* } */
-
-    /* .text {  */
-    /*     min-width: 200px; */
-    /*     overflow: hidden; */
-    /*     display: inline-block; */
-    /*     clear: left; */
-    /*     float: left; */
-    /*     width: calc(60% - 20px); /\* Adjust width to complement the picture *\/ */
-    /*     padding-right: 20px; /\* Add some padding to prevent text from touching the image *\/ */
-    /* } */
-
-    /* .textpicture { */
-    /*     max-width: none; /\* Remove the max-width constraint *\/ */
-    /* } */
-
-
-
-    .clear {
-	clear: both;
-    }
-
 }
 
-
-
-/*For tablet*/
-
-
 @media only screen and (min-width: 768px) and (max-width: 979px) {
-
     .navbar {
-	width: 220px;
-	float: left;
-	margin-top: 20px;
-	margin-left: 20px;
-	position: fixed;
+        position: fixed;
+        float: left;
+        width: 220px;
+        margin-top: 20px;
+        margin-left: 20px;
     }
 
     .navbar ul {
-	list-style-type: none;
-	margin-left: 20px;
-	font-family: Gill Sans, 'Open Sans';
-	font-size: 14pt;
+        margin-left: 20px;
+        list-style-type: none;
+        font-family: Gill Sans, 'Open Sans';
+        font-size: 14pt;
     }
-    
 
     #main {
-	margin-left: 240px;
-	/* Change this to whatever the width of your left column is*/
-	padding-top: 70px;
-	text-align: center;
+        margin-left: 240px;
+        padding-top: 70px;
+        text-align: center;
     }
-    
+
     #main ul {
-	list-style-type: disc;
+        list-style-type: disc;
     }
 
     #main li {
-	margin-left: 1em;
+        margin-left: 1em;
     }
 
     #main img {
-	margin: auto;
+        margin: auto;
     }
 
-
-    .text { 
-	overflow: hidden;
-	display: inline-block;
-	margin: auto;
-	text-align: left;
+    .text {
+        display: inline-block;
+        overflow: hidden;
+        margin: auto;
+        text-align: left;
     }
 
     .textpicture {
-	max-width: 400px;
+        max-width: 400px;
     }
-
-    .clear {
-	clear: both;
-    }
-
 }
 
-
-
-/*For phones*/
-
-
 @media only screen and (max-width: 767px) {
-
     .navbar {
-	text-align: center;
-	width: 99%;
-	padding-bottom: 15px;
-	margin: 0 auto;
-	position: relative;
+        position: relative;
+        width: 99%;
+        margin: 0 auto;
+        padding-bottom: 15px;
+        text-align: center;
     }
 
     .navbar li {
-	float: center;
-	margin: 0 0 0 0;
-	display: inline-block;
-	padding: 0 6px 0 6px;
+        display: inline-block;
+        margin: 0;
+        padding: 0 6px;
     }
 
-    
     .navbar ul {
-	list-style-type: none;
-	margin: auto;
-	font-family: Gill Sans, 'Open Sans';
-	font-size: 14pt;
-	display: inline-block;
+        display: inline-block;
+        margin: auto;
+        list-style-type: none;
+        font-family: Gill Sans, 'Open Sans';
+        font-size: 14pt;
     }
-    
 
     #main {
-	/* Change this to whatever the width of your left column is*/
-	padding-top: 5px;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	max-width: 580px;
-	width: 90%;
+        display: block;
+        width: 90%;
+        max-width: 580px;
+        margin-right: auto;
+        margin-left: auto;
+        padding-top: 5px;
+        text-align: center;
     }
-    
+
     #main ul {
-	list-style-type: disc;
+        list-style-type: disc;
     }
 
     #main li {
-	margin-left: 1em;
+        margin-left: 1em;
     }
 
     #main img {
-	margin: auto;
+        margin: auto;
     }
 
-
-    .text { 
-	overflow: hidden;
-	display: inline-block;
-	margin: auto;
-	text-align: left;
-	font-size: 12pt;
+    .text {
+        display: inline-block;
+        overflow: hidden;
+        margin: auto;
+        text-align: left;
+        font-size: 12pt;
     }
-
-    .clear {
-	clear: both;
-    }
-
 }

@@ -1,3 +1,6 @@
+---
+pagetitle: Papers — Ethan Jerzak
+---
 
 <div id="main">
 
@@ -7,11 +10,10 @@ I have written some papers.
 
 Here are some papers I've written:
 
-<!-- * "Age-Weighted Voting" _under review_ -->
-<!-- 	[[draft]](https://philpapers.org/archive/JERKWT.pdf) -->
+* "Age-Weighted Democracy", _Philosophical Quarterly_, forthcoming
 
 * "Knowing What to Do" (joint work with [Arc
-  Kocurek](http://www.actual.world)), _Noûs_, 2024  
+  Kocurek](http://www.actual.world)), _Noûs_ 59 (1):160--190, 2025  
 	[[penultimate]](https://philpapers.org/archive/JERKWT.pdf)
 	[[published]](https://doi.org/10.1111/nous.12503)
 
@@ -41,9 +43,13 @@ Here are some papers I've written:
   [[penultimate]](https://philpapers.org/archive/JERNK.pdf)
   [[published]](https://doi.org/10.1111/phpr.12448)
  
-<!-- * "Logical Pluralism and the Expansion of Knowledge" (formerly "From -->
-<!--   Logical Pluralism to Logical Contextualism") _under review_ -->
+I've also contributed to some papers on AI:
 
+* "Multiplication in Multimodal LLMs: Computation with Text, Image, and Audio Inputs" (joint work with Samuel G. Balter and Connor T. Jerzak), _Findings of the Association for Computational Linguistics_, 2026  
+	[[arXiv]](https://arxiv.org/abs/2604.18203)
+
+* "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models" (joint work with Aarohi Srivastava et al.), _Transactions on Machine Learning Research_, 2022  
+	[[published]](https://openreview.net/forum?id=uyTL5Bvosj)
 
 </div>
 

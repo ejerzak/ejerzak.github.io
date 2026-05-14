@@ -1,39 +1,33 @@
+---
+pagetitle: Talks — Ethan Jerzak
+---
 
 <div id="main">
 
 <div class="text">
 
-I('ll) have given some talks.
+I have given some talks.
 
-Here are some talks I('ll) have given:
+Here are some talks I've given:
 
-### 
 * "Disjunctive Crimes", [BISFORM 2025](https://voidprove.github.io/BISFORM2025/), July 2025
 
-### 2024
-
 * "Knowing What to Do" (joint work with [Arc Kocurek](http://actual.world)), Berkeley Meaning Sciences Club, Berkeley, October 2024
-* "De Re Desire", New York Philosophy of Language Workshop, September 2024
-
-### 2023
+* "Desire De Re", New York Philosophy of Language Workshop, September 2024
 
 * "Age-Weighted Democracy", UT-Austin, Texas, December 2023
 * "Knowing What to Do" (joint work with [Arc Kocurek](http://actual.world)), Expressivism Workshop, Lingnan University, Hong Kong, November 2023
 * "Knowing What to Do" (joint with [Arc Kocurek](http://actual.world)), Philosophy of Language Association, Berlin, July 2023
 * "Aggregating Value" (joint work with [Isaac Wilhelm](https://isaacwilhelm.com/)), Buenos Aires Logic Group, June 2023
-* "De Re Desire", Dubrovnik Conference on Metaphysics, Croatia, June 2023
-* "De Re Desire", Colloquium, Scripps College, Los Angeles, February 2023
+* "Desire De Re", Dubrovnik Conference on Metaphysics, Croatia, June 2023
+* "Desire De Re", Colloquium, Scripps College, Los Angeles, February 2023
 
-
-### 2020 
 * "Against Conventional Wisdom" (joint with [Arc
   Kocurek](http://actual.world) and [Rachel
   Rudolph](https://sites.google.com/view/rachelettarudolph)), Eastern
   APA, Philadelphia, January 2020
 
-
-### 2019
-* "De Re Desire", Nanyang Technological University, Singapore, November 2019
+* "Desire De Re", Nanyang Technological University, Singapore, November 2019
 * "Against Conventional Wisdom" (joint with [Arc Kocurek](http://actual.world) and [Rachel
   Rudolph](https://sites.google.com/view/rachelettarudolph)),
   [Stanford Philosophy of Language and Linguistics
@@ -49,10 +43,7 @@ Here are some talks I('ll) have given:
 * "Paradoxical Desires", Indiana University Bloomington, February 2019
 * "Paradoxical Desires", National University of Singapore, January 2019
 
-### 2018
-
-
-<!-- * "Two Ways to Want?", Hebrew University of Jerusalem, December 2018 -->
+* "Two Ways to Want?", Hebrew University of Jerusalem, December 2018
 * "Paradoxical Desires", [Oxford University Graduate
   Conference](http://users.ox.ac.uk/~gradconf/index.shtml), November
   2018
@@ -72,16 +63,12 @@ Here are some talks I('ll) have given:
   APA](http://www.apaonline.org/event/2018eastern),
   Savannah, January 2018
   
-### 2017
-
 * "Paradoxical Desires", Graduate Research Colloquium, Berkeley,
   December 2017
 * "From Logical Pluralism to Logical Contextualism", [The Normativity of Logic](http://www.uib.no/en/antiex/99273/normativity-logic), Bergen, June 2017
 * Comments on Ivano Ciardelli, "Two switches in the theory of counterfactuals", [Philosophy of Language and Linguistics Workshop](http://philosophymeetslinguistics.weebly.com/), Zürich, June 2017
 * "From Logical Pluralism to Logical Contextualism", Berkeley/London Graduate Conference, Berkeley, May 2017 
 * "From Logical Pluralism to Logical Contextualism", [Eastern APA](http://www.apaonline.org/event/2017eastern), Baltimore, January 2017 
-
-### 2016
 
 * "Two Ways to Want?", [Situations, Information, and Semantic Content](http://www.situatedcontent2016.philosophie.uni-muenchen.de/index.html), LMU, Munich, December 2016
 * Comments on Isidora Stajanovic, "Expressing Disagreement", [Faces of Disagreement Conference](https://grin.normativity.ca/disagreement-conference/), Montreal, May 2016
@@ -92,13 +79,9 @@ Here are some talks I('ll) have given:
 
 
 
-### 2015
-
 * "Non-Classical Knowledge", Colloquium, Munich Center for Mathematical Philosophy, Munich, December 2015
-* "Expanding Pluralism", OSU/Maribor/Rijeka Conference on Pluralism and Relativism, Dubrovnik, June 2015
+* "From Logical Pluralism to Logical Contextualism", OSU/Maribor/Rijeka Conference on Pluralism and Relativism, Dubrovnik, June 2015
 * Comments on Neil Barton, "Modality, Mathematics, and Time: A Common Flaw in Modal Arugments", Berkeley/London Graduate Conference, Berkeley, May 2015
-
-### 2014
 
 * Comments on Peter Hawke, "Questions, Topics, and Restricted
   Closure", Berkeley/Stanford Logic Circle, San Francisco, December 2014
@@ -106,12 +89,8 @@ Here are some talks I('ll) have given:
 * "Evolving Realism", Berkeley/London Graduate Conference, University College London, May 2014 
 
 
-### 2013 
-
 * "Non-Classical Knowledge", Berkeley/London Graduate Conference, University of California, Berkeley, May 2013
 * Comments on Shane Steinert-Threlkeld, "Deflationism, Gaps, and Expressive Power", Berkeley/Stanford, Davis Graduate Conference, Berkeley, May 2013 
-
-### 2012
 
 * "Liars, Propositions, and Contexts", Berkeley/London Graduate Conference, University College London, May 2012 
 

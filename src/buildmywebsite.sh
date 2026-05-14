@@ -6,6 +6,5 @@ pandoc -f markdown -t html --template template.html -s -o ../public_html/papers.
 pandoc -f markdown -t html --template template.html -s -o ../public_html/teaching.html -c ethan.css navbar.md teaching.md
 pandoc -f markdown -t html --template template.html -s -o ../public_html/cv.html -c ethan.css navbar.md cv.md
 pandoc -f markdown -t html --template template.html -s -o ../public_html/pofma.html -c ethan.css navbar.md pofma.md
-cp ~/gitbucket/work/cv/'Ethan Jerzak CV.pdf' ~/gitbucket/work/website/public_html/'Ethan Jerzak CV.pdf'
+cp ~/gitbucket/work/cv/ethan_jerzak_cv.pdf ~/gitbucket/work/website/public_html/ethan_jerzak_cv.pdf
 cp *.css ../public_html/
-

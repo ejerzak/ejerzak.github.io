@@ -1,3 +1,7 @@
+---
+pagetitle: POFMA — Ethan Jerzak
+---
+
 <div id="main">
 
 <div class="text">

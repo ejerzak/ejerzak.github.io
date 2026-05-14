@@ -1,4 +1,6 @@
-
+---
+pagetitle: Teaching — Ethan Jerzak
+---
 
 <div id="main">
 
