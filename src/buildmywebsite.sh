@@ -7,4 +7,5 @@ pandoc -f markdown -t html --template template.html -s -o ../public_html/teachin
 pandoc -f markdown -t html --template template.html -s -o ../public_html/cv.html -c ethan.css navbar.md cv.md
 pandoc -f markdown -t html --template template.html -s -o ../public_html/pofma.html -c ethan.css navbar.md pofma.md
 cp ~/gitbucket/work/cv/ethan_jerzak_cv.pdf ~/gitbucket/work/website/public_html/ethan_jerzak_cv.pdf
+cp ~/Sync/NUS/writing/published/age_proportionate_voting/PhilQuarterly_Final_Proofs/voting_preprint.pdf ~/gitbucket/work/website/public_html/age_weighted_democracy.pdf
 cp *.css ../public_html/
