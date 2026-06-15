@@ -1,11 +1,33 @@
-#!/bin/bash
-pandoc -f markdown -t html --template template.html -s -o ../public_html/index.html -c ethan.css navbar.md index.md
-pandoc -f markdown -t html --template template.html -s -o ../public_html/talks.html -c ethan.css navbar.md talks.md
-pandoc -f markdown -t html --template template.html -s -o ../public_html/miscellany.html -c ethan.css navbar.md miscellany.md
-pandoc -f markdown -t html --template template.html -s -o ../public_html/papers.html -c ethan.css navbar.md papers.md
-pandoc -f markdown -t html --template template.html -s -o ../public_html/teaching.html -c ethan.css navbar.md teaching.md
-pandoc -f markdown -t html --template template.html -s -o ../public_html/cv.html -c ethan.css navbar.md cv.md
-pandoc -f markdown -t html --template template.html -s -o ../public_html/pofma.html -c ethan.css navbar.md pofma.md
-cp ~/gitbucket/work/cv/ethan_jerzak_cv.pdf ~/gitbucket/work/website/public_html/ethan_jerzak_cv.pdf
-cp ~/Sync/NUS/writing/published/age_proportionate_voting/PhilQuarterly_Final_Proofs/voting_preprint.pdf ~/gitbucket/work/website/public_html/age_weighted_democracy.pdf
-cp *.css ../public_html/
+#!/usr/bin/env bash
+set -euo pipefail
+
+src_dir="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+project_dir="$(dirname -- "$src_dir")"
+site_dir="$project_dir"
+
+pages=(
+    index
+    papers
+    talks
+    rational-for-what
+    teaching
+    cv
+    miscellany
+    pofma
+)
+
+for page in "${pages[@]}"; do
+    pandoc \
+        -f markdown \
+        -t html \
+        --template "$src_dir/template.html" \
+        -s \
+        -o "$site_dir/$page.html" \
+        -c ethan.css \
+        "$src_dir/navbar.md" \
+        "$src_dir/$page.md"
+done
+
+cp "$src_dir/"*.css "$site_dir/"
+cp "$src_dir/assets/"* "$site_dir/"
+touch "$site_dir/.nojekyll"
