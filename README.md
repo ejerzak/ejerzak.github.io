@@ -6,8 +6,9 @@ The source pages are in `src/`. Run:
 src/buildmywebsite.sh
 ```
 
-This builds the static site in the repository root. GitHub Pages publishes the
-`main` branch's root directory.
+This builds the static site in `docs/`. GitHub Pages publishes the `main`
+branch's `/docs` directory. In the repository's Pages settings, set the source
+to **Deploy from a branch**, with branch **main** and folder **/docs**.
 
 The custom domain is `ethanjerzak.com`. In Cloudflare DNS, configure:
 
@@ -22,4 +23,4 @@ The custom domain is `ethanjerzak.com`. In Cloudflare DNS, configure:
 Keep these records DNS-only while GitHub validates the domain and issues its
 HTTPS certificate. In the repository's Pages settings, set the custom domain
 to `ethanjerzak.com`, then enable "Enforce HTTPS" when it becomes available.
-The repository's `CNAME` file records the custom domain.
+The generated site's `CNAME` file records the custom domain.
