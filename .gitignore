@@ -1,4 +1,7 @@
 *~
+!/docs/*.jpeg
+!/docs/*.jpg
+!/docs/*.pdf
 /public_html/
 /.playwright-mcp/
 /ethanlowres.jpeg
