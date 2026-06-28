@@ -11,7 +11,7 @@ I have written some papers.
 Here are some papers I've written:
 
 * "Age-Weighted Democracy", _Philosophical Quarterly_, forthcoming  
-	[[preprint]](age_weighted_democracy.pdf)
+	[[preprint]](https://philpapers.org/archive/JERADW.pdf)
 
 * "Knowing What to Do" (joint work with [Arc
   Kocurek](http://www.actual.world)), _Noûs_ 59 (1):160--190, 2025  
